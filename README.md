@@ -21,4 +21,4 @@ Select the `crx` file and drop it to `chrome://extensions/` page.
 - Google Chrome 32+
 
 ## Notice
-Not being updated or maintained as of 2018. Decided to put the extension back online in my effort to build in public.
+Not being updated or maintained as of 2018. Had removed the project in 2018, decided to put the extension back online in my effort to build in public in 2021.
