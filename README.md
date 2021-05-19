@@ -1,3 +1,5 @@
+![Cover](https://github.com/theandrebass/Mute/blob/main/assets/1400x560.png)
+
 # Mute!
 
 Chrome extension to prevent autoplay videos from being crappy.
